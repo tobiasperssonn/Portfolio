@@ -1,1 +1,1 @@
-Welcome to my e-portfolio containing some of the programming work I've done, both during my education and in my spare time.
+Welcome to my e-portfolio containing some of the programming work I've done, both during my education and in my spare time. This work spans across various languages and technologies, which hopefully shows my knowledge and skills, and the the journey i took to aquire them.

@@ -1,0 +1,23 @@
+[
+    [atFloor, [opened, error]],
+    [floorPress, [closed]],
+    [moving, [atFloor, error]],
+    [opened, [floorPress]],
+    [closed, [moving]],
+    [error, [error]],
+    [call, [moving]]
+].
+
+[
+    [atFloor, [stopped]],
+    [moving, [closed, floorPress, called]],
+    [floorPress, [stopped]],
+    [opened, [doorOpen, stopped]],
+    [closed, [doorClose]],
+    [error, [malfunction]],
+    [call, [called]]
+].
+
+atFloor.
+
+ag(ax(malfunction)).

@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "display.h": "c",
+        "pic32mx.h": "c",
+        "stdint.h": "c"
+    }
+}

@@ -1,0 +1,1 @@
+This is a assignment where we created different implementations of the tree data structure. We created a binary tree and a tree using stacks. Also included is a file that performs a binary search in the tree and a file that benchmarks the performance of the trees.

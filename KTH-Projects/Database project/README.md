@@ -8,3 +8,6 @@ Create a ER diagram of the database, that now should represent how the final dat
 
 3.
 Perform various SQL queries on the newly created database, to insure its proper function and implementation
+
+
+This database uses PostgreSQL and is required to run these files!

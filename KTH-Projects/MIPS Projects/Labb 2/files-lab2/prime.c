@@ -1,7 +1,7 @@
 /*
  prime.c
  By David Broman.
- Last modified: 2015-09-15
+ Last modified: 2023-02-07 by Tobias Persson
  This file is in the public domain.
 */
 
